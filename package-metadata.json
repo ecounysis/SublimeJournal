@@ -1,7 +1,7 @@
 {
     "dependencies": [], 
     "sublime_text": "*", 
-    "description": "Provides some journal prompts and an automatic timestamp", 
+    "description": "Provides journal prompts and an automatic timestamp", 
     "version": "1.0.3", 
     "url": "https://github.com/ecounysis/SublimeJournal", 
     "platforms": ["*"]
