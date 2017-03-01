@@ -1,6 +1,54 @@
 {
+    "womack_prompts":
+    [
+        "What is the change you want to make or the project you want to start?",
+        "How long (Months? Years?) has this been on your mind?",
+        "Why start now? Really? Specifically? Why now?",
+        "On a scale of 1–5 (1 being \"most important\"), how important is it that you get started? (That is, could it wait?)",
+        "Describe what life will look like five years from now if you do not start now. Be specific and detailed.",
+        "Why haven't you started this project yet? Make a list of all the excuses you can. To start, identify at least 10 reasons!)",
+        "What are the old tactics you’ve been using (staying up late at night, working through weekends, etc.) to try to get started?",
+
+        "Make a list and describe each of at least 10 current priorities (at work, and at life). How am I doing on each of them?",
+        "Make a list of people you spend time with. And, identify what you gain as a result!",
+        "Make a list of where you work, think and create the best.",
+
+        "Answer this question several times: What do I want to be known for? Consider several roles that are important to you.",
+        "List the names of specific projects you want to be a part of at work, at home, in your community, in the world.",
+        "List an event (or several) you want to attend.",
+        "List a community program you want to build or support.",
+
+        "List at least 10 activities that make you feel motivated when you do them.",
+        "Think about times when you're so focused or you’re having so much fun that you lose track of time.",
+        "Highlight the activities that are directly related to the one change you’d like to make or one project you’d like to start.",
+
+        "List 5 real things that frustrate you or make you feel conflicted.",
+        "How will getting motivated on the change you want to make or the project you want to start inspire you to take action on one or all of the items you listed above? How will taking action fix that problem or make things better for you, your work, your family, or your community?",
+
+        "What do I spend my time doing? Keep a time log for a week. When you do this, you’ll find out how much time you are (or are not) spending on your priorities.",
+        "What do I spend my money on? Track your spending for a month, and you’ll see where you’re investing that limited resource. Is what you’re buying on your list of priorities aligned with what you want to be known for?",
+
+        "What do I wish were different? As you answer this question, you’ll realize there are deeper levels to what you’re motivated to start.",
+        "Do I really need to make changes now? Should or can I wait? Now it’s time to commit to the process. If you’re going to get started, you’re going to have to make some changes. Are you ready? Really?",
+    ],
+
     "random_prompts":
     [
+       "I wonder ...",
+        "I would I could tell someone about ...",
+        "One thing I've learned is ...",
+        "The best part of yesterday was ...",
+        "The worst part of yesterday was ...",
+        "If I could change one things about yesterday, it would be ...",
+        "Today, I plan to ...",
+        "Someday, I want to ...",
+        "I was once ..., but now I am ...",
+        "I feel fortunate to have ...",
+        "I need help with ...",
+        "My life would be completely different if ...",
+        "I'm afraid of ...",
+        "I know I can ...",
+        "Everyone says ..., but I think ...",
         "My favorite way to spend the day is…",
         "If I could talk to my teenage self, the one thing I would say is…",
         "The two moments I'll never forget in my life are… Describe them in great detail, and what makes them so unforgettable.",
@@ -212,6 +260,7 @@
         "What would make me feel spiritually fulfilled?",
         "What famous world festivals would I like to attend?"
     ],
+
     "daily_prompts":
     [
         "Have you given yourself the permission to dream? If not, do so right now. Then make a big dream list. Fantasize!",

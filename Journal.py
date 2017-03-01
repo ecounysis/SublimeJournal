@@ -13,7 +13,7 @@ class JournalCommand(sublime_plugin.TextCommand):
         date_string = right_now.strftime("%m/%d/%Y %H:%M:%S")
         settings = sublime.load_settings("Journal prompts.sublime-settings")
         daily_prompts = settings.get("daily_prompts")
-        random_prompts = settings.get("random_prompts") + daily_prompts
+        random_prompts = settings.get("random_prompts")
         random_prompt = random_prompts[random.randint(0, len(random_prompts) - 1)]
         daily_prompt = daily_prompts[day_of_year - 1]
         if (year % 4 == 0): # leap year
